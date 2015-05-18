@@ -1,0 +1,3 @@
+
+# first oneline version for start from plugin manager
+import sys;sys.path.append('/usr/lib/freecad/Mod/plugins/WorkFeature');import WorkFeature;reload(WorkFeature);m=WorkFeature.WorkFeatureTab() 
